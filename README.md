@@ -61,6 +61,7 @@ python main.py --eval --config ./config/AASIST.conf
 
 ## Part 3: Documentation 
 The required Analysis on the ASSiST Model is done and documented in the Model_Analysis Document is provided in the repository.
+
 ---
 
 ##  Citation
